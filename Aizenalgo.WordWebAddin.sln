@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32519.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aizenalgo.WordWebAddin", "Aizenalgo.WordWebAddin\Aizenalgo.WordWebAddin.csproj", "{0D90256E-1676-4286-9C21-EDCB59BDFCBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aizenalgo.WordWebAddinWeb", "Aizenalgo.WordWebAddinWeb\Aizenalgo.WordWebAddinWeb.csproj", "{D21A3A5F-9A27-442A-B49C-131A3BB1C390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D90256E-1676-4286-9C21-EDCB59BDFCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D90256E-1676-4286-9C21-EDCB59BDFCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D90256E-1676-4286-9C21-EDCB59BDFCBB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0D90256E-1676-4286-9C21-EDCB59BDFCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D90256E-1676-4286-9C21-EDCB59BDFCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D90256E-1676-4286-9C21-EDCB59BDFCBB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D21A3A5F-9A27-442A-B49C-131A3BB1C390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21A3A5F-9A27-442A-B49C-131A3BB1C390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21A3A5F-9A27-442A-B49C-131A3BB1C390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21A3A5F-9A27-442A-B49C-131A3BB1C390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DF6CD7D-4287-47F8-A289-43E73CCD3804}
+	EndGlobalSection
+EndGlobal
